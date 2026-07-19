@@ -1,0 +1,7 @@
+[package]
+name = "scratch"
+version = "0.1.0"
+edition = "2021"
+authors = ["daiki-1944"]
+
+[dependencies]
